@@ -1,0 +1,5 @@
+<img
+            className=" rounded-full w-96 drop-shadow-xl select-none hover:animate-pulse"
+            src={"naman.jpg"}
+            alt="Profile" 
+          />
